@@ -1,0 +1,20 @@
+.App {
+  
+  margin: 0;
+  display: flex;
+  justify-content:right ;
+  align-items: center;
+  height: 100vh;
+ align-items: flex-start;
+}
+
+.logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+
+
+
+

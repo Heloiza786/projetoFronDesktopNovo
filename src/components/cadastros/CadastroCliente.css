@@ -1,0 +1,59 @@
+/* Estilo geral para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo geral para os campos de entrada */
+.FlexPai {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin: 80px;
+    background-color: rgb(255, 255, 255);
+    
+
+}
+
+/* Estilo da área de cadastro */
+.cc {
+    color: #FBBD08;
+    background-color: #062D3E;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+/* Estilo para os campos de entrada */
+.FlexPai label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.FlexPai input {
+    width: 20%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+/* Estilo específico para a área de horário e data */
+.horario {
+    margin-top: 20px;
+}
+
+.horario label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.horario input {
+    width: 20%;
+    padding: 8px;
+    margin-bottom: 10px;
+    align-items: center;
+}@media (max-width: 768px) {
+    /* Adicione estilos específicos para telas menores, se necessário */
+}
+
+

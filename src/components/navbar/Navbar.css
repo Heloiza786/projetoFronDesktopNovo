@@ -1,0 +1,70 @@
+
+/* Navbar.css */
+/* Navbar.css */
+
+.FlexPai {
+  /* Estilos para o contêiner principal */
+  overflow: hidden;
+  display: flex;
+  flex-wrap: wrap; /* Permite que os elementos se movam para a próxima linha quando não houver espaço suficiente */
+  justify-content: center; /* Centraliza os elementos horizontalmente */
+}
+
+.img-logo{
+  max-width: 300%; /* Ajuste o valor conforme necessário ok*/ 
+  height: auto;
+  display: block;
+  margin: 10px;
+  max-height: 400px;
+/* position: fixed; */
+  
+}
+   /* Ajuste o valor da altura conform
+310
+
+
+  max-width: 100%; /* Ajuste o valor conforme necessário */
+
+.pet2{
+  max-width: 50%; /* Ajuste o valor conforme necessário */
+  height: auto;
+  display: block;
+  margin: 10px;
+  max-height: 700px;
+   /* Ajuste o valor conforme necessário */
+  /* background-color: antiquewhite; */
+    
+  
+
+}
+
+.imgspets-container {
+  display: flex;
+  justify-content: center;
+  margin: 30px; /* Adapte a margem conforme necessário */
+  margin-right: 10px;
+  
+}
+
+.pet2:not(:last-child) {
+  margin-right: 30px; /* Adapte a margem conforme necessário */
+  
+}
+
+.img-logon
+/* [src$="petreeall.png"]  */
+{
+  max-height: 600px; /* Substitua 300px pela altura desejada */
+  /* margin-top: 100;
+  background-color: black; */
+}.rodape{
+      color: #FBBD08;
+      background-color: #062D3E;
+      width: 100%;
+      font-size: medium;
+      font-family: 'Josefin Sans', sans-serif;
+      padding: 10px;
+      text-align: center
+}
+
+/* Adicione estilos adicionais conforme necessário para outros elementos na página */
